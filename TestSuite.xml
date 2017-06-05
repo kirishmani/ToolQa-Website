@@ -5,7 +5,9 @@
     <classes>
       <class name="basictest.RegisterPage"/>
       <class name="basictest.HomePage"/>
+       </classes>
+       <classes>
        <class name="Initializer.IntializingPage"/>
-    </classes>
+       </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
