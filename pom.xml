@@ -5,7 +5,7 @@
   <version>0.0.1-SNAPSHOT</version>
   <properties>
 <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-     <suiteXmlFile>demowebsite.xml.xml</suiteXmlFile>
+     <suiteXmlFile>demowebsite.xml</suiteXmlFile>
  </properties>
 <build> 
    <plugins>

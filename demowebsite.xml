@@ -6,7 +6,6 @@
       <class name="basictest.RegisterPage"/>
       <class name="basictest.HomePage"/>
        <class name="Initializer.IntializingPage"/>
-       <class name="testdata.PageData.java"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
